@@ -6,4 +6,5 @@ int main(){
     cout<<"you are towards sky";
     cout<<"go to the bar and take some bear";
     cout<<"come along with us";
+    cout<<"come with us";
 }
